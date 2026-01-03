@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Book 2 in this LitRPG Series about an underdog rising up to be the idol her new world didn't know it needed. Hestia may start small, but one day her power will match her determination.</b></p>"; 

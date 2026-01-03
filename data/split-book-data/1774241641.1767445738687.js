@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>“Now, we become adventurers....”</p> <p>Von Dominus continues to build Zagorath into a lair worthy of an evil overlord. When a new item brings another realm to his fingertips, it’s time the dungeon did a little diving of his own. </p> <p><b>Warning: Contains harem elements and mature content.</b></p>"; 

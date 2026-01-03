@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Conniving Pirate Lords, brutally powerful behemoths of the seas....</b></p> <p>Fierce maidens rocking the boat and the overwhelming forces of the Elven Navy. The adventure continues with<i> Rise of a Pirate Lord</i>.</p>"; 

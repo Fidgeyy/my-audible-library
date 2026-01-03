@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Garrett Andrews is two things: A god, and a person who knows how to get things done. And this time, he’ll have to put both things to the test because the new world he’ll visit is filled with dinosaurs with sharp teeth, vicious claws, and a taste for human flesh....</p>"; 
